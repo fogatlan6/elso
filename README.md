@@ -30,8 +30,7 @@ Info szakkör
     * aláhúzás... `<u>aláhúzott</u>`
 
 # 2019. szeptember 23.
-  * HTML alap formázások
-  
+  * HTML alap formázások, gyakorlás
 # 2019. szeptember 30.
   * Táblázatok elkezdése
     * `<table> <tr> <td>`
@@ -52,7 +51,8 @@ Info szakkör
 <style>
 ```
 # 2019. október 7.
-  * táblázatok
+  * táblázat, a játék elrendetése
+    * https://hehainfoszakkor2019.github.io/elso/tabla.html
 # És ami még hátravan
 
   * Ékezetek és egyéb furcsa karakterek
