@@ -24,6 +24,34 @@ Info szakkör
 </body>
 </html>
 ```
+  * Szöveg formázás
+    * vastagítás... `<b>vastag</b>` vagy `<strong>vastag</strong>`
+    * döntés... `<i>dőlt</i>` vagy `<em>ddd</em>`
+    * aláhúzás... `<u>aláhúzott</u>`
+
+# 2019. szeptember 23.
+# 2019. szeptember 30.
+  * Táblázatok elkezdése
+    * `<table> <tr> <td>`
+  * CSS elkezdése
+```html
+<style>
+  table {
+   border: 1px solid black;
+   padding:0;
+   margin:0;
+  }
+  tr {
+   border: 1px solid blue;
+  }
+  td {
+   border: 1px solid red;
+  }
+<style>
+# 2019. október 7.
+  * táblázatok
+# És ami még hátravan
+
   * Ékezetek és egyéb furcsa karakterek
     * A számítógépek angol ABC-t és az alapvető írásjeleket ismerik, azokon kívül kódok használatával írhatunk le másfajta betűket és : `&valami;`
       * Ahol ez a _valami_ lehet kód `#xxx` vagy `kódnév`.
@@ -49,10 +77,7 @@ Info szakkör
       * Az RGB színtér egy olyan additív színmodell, ami a vörös, zöld és kék fény különböző mértékű keverésével határozza meg a különböző színeket.
       * Az RGB skálán egy színt az határoz meg, hogy milyen intenzitású a három komponense.
     * érdekesség: [hexclock](http://www.jacopocolo.com/hexclock/)
-  * Kiemelések
-    * vastagítás... `<b>vastag</b>` vagy `<strong>vastag</strong>`
-    * döntés... `<i>dőlt</i>` vagy `<em>ddd</em>`
-    * aláhúzás... `<u>aláhúzott</u>`
+
   * Címsor
   * Elrendezések
     * bekezdések.....`<p> szöveg </p>`
@@ -68,17 +93,21 @@ Info szakkör
 ```
   * Képek
     * tag attributomok, kiegészítő adatok
-       <button>Click me</button> 
 ```
 <img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
 <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com"> 
 ```
   * Hivatkozások, linkek
     * kép, mint hivatkozás
+  * valami
 ```
 <a href="default.asp">
   <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0;">
 </a> 
+```
+  * gombok
+```
+      <button>Click me</button> 
 ```
   * Felsorolás, lista
     * később
