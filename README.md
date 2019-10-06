@@ -30,6 +30,8 @@ Info szakkör
     * aláhúzás... `<u>aláhúzott</u>`
 
 # 2019. szeptember 23.
+  * HTML alap formázások
+  
 # 2019. szeptember 30.
   * Táblázatok elkezdése
     * `<table> <tr> <td>`
@@ -48,6 +50,7 @@ Info szakkör
    border: 1px solid red;
   }
 <style>
+```
 # 2019. október 7.
   * táblázatok
 # És ami még hátravan
